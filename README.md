@@ -5,7 +5,7 @@
 ### 🔬 Information Security, Explainable AI, and Active Inference Researcher
 ### 💼 Board Member
 
-Welcome! I'm **Jeff Schulman**, a cybersecurity professional at **Netskope**, Ph.D. student and adjunct instructor at **Penn State**, and founder of **Manteio Company**, specializing in security strategy and fractional vCISO services. My work spans **human-computer interaction (HCI), cybersecurity, explainable AI, deception, and active inference**.
+Welcome! I'm **Jeff Schulman**, a cybersecurity professional at **Netskope**, Ph.D. student and adjunct instructor at **Penn State**, and founder of **Manteio Company**, specializing in security strategy and fractional vCISO services. My work spans **human-computer interaction (HCI), information security, explainable AI, deception**, and **active inference**.
 
 ---
 
@@ -57,7 +57,8 @@ Welcome! I'm **Jeff Schulman**, a cybersecurity professional at **Netskope**, Ph
 - 🏛️ [Penn State Profile](https://ist.psu.edu/directory/jss6099)  
 - 🆔 [ORCID](https://orcid.org/my-orcid?orcid=0009-0004-9806-4113)  
 - 🐦 [Twitter](https://twitter.com/jeffschulman)  
-- 💼 [LinkedIn](https://linkedin.com/in/jeffschulman)  
+- 💼 [LinkedIn](https://linkedin.com/in/jeffschulman)
+- 📊 [RateMyProfessors](https://www.ratemyprofessors.com/professor/2780667)   
 
 🚀 **Open to collaborations in information security, HCI, CSCW,  and active inference research**  
 
