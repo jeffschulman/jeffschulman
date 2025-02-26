@@ -1,6 +1,9 @@
 # 👋 Jeffrey Samuel Schulman Jr.
 
-### 🛡️ Enterprise IT & Cybersecurity Stragegy, Engineering, and Operations | 🎓 Ph.D. Student | 🖥️ Information Security & Explainable AI Researcher
+### 🛡️ Enterprise IT & Cybersecurity Stragegy, Engineering, and Operations
+### 🎓 Ph.D. Student & Adjunct Instructor
+### 🔬 Information Security, Explainable AI, and Active Inference Researcher
+### 💼 Board Member
 
 Welcome! I'm **Jeff Schulman**, a cybersecurity professional at **Netskope**, Ph.D. student and adjunct instructor at **Penn State**, and founder of **Manteio Company**, specializing in security strategy and fractional vCISO services. My work spans **human-computer interaction (HCI), cybersecurity, explainable AI, deception, and active inference**.
 
@@ -23,7 +26,7 @@ Welcome! I'm **Jeff Schulman**, a cybersecurity professional at **Netskope**, Ph
 - *"Focusing on Goals and Objectives: Updating a Principle of Marine Corps Leadership"* – Marine Corps Gazette (December 2024)  
 - *"Entropy: An Essential Component of Cryptographic Security"* – Journal of Cybersecurity Awareness and Education  
 
-➡️ **Full list:** [Curriculum Vitae](https://github.com/yourprofile/CV.pdf)  
+➡️ **Full list:** [Curriculum Vitae](https://www.jeffschulman.com/cv)  
 
 ---
 
@@ -31,8 +34,8 @@ Welcome! I'm **Jeff Schulman**, a cybersecurity professional at **Netskope**, Ph
 
 - **Director of Government Services, Netskope** – Leading secure cloud operations for FedRAMP High & PBMM environments, ensuring compliance and mission-critical support for government clients.  
 - **Founder, Manteio Company** – Security strategy, AI-driven risk management, and compliance solutions.  
-- **Adjunct Faculty, Penn State University** – Teaching cybersecurity, networking, and risk analysis.  
-- **Former CISO (Acting), Penn State Applied Research Lab** – Led security operations and compliance for a $400M+ research enterprise.  
+- **Adjunct Faculty, Penn State University** – Teaching cybersecurity, networking, and risk management.  
+- **Former CISO (Acting) & Cybersecurity Architect, Penn State Applied Research Lab** – Led security operations and compliance for a $400M+ research enterprise.  
 - **USMC Veteran** –  Cybersecurity and IT operations supporting military and defense missions.  
 
 👨‍💻 **Past experience** includes work with DoD/IC (AFRICOM, NSA, NGA, USFK) and enterprise IT security teams.  
